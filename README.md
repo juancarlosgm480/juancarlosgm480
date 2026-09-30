@@ -42,7 +42,7 @@ Me interesa seguir aprendiendo, crear proyectos propios y mejorar poco a poco co
 ---
 
 <hr>
- JavaScript ████████████████░░░░ Java ████████████████░░░░ HTML / CSS █████████████████░░░ PHP █████████████░░░░░░░ SQL ██████████████░░░░░░
+ <p> JavaScript ████████████████░░░░ <br>  Java ████████████████░░░░ <br> HTML / CSS █████████████████░░░ <br> PHP █████████████░░░░░░░ <br> SQL ██████████████░░░░░░ </p>
 <hr>
 
 ## 📌 En qué estoy trabajando
