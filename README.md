@@ -1,4 +1,4 @@
-# 👋 Hola, soy [TU NOMBRE]
+# 👋 Hola, soy Juan Carlos.
 
 💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en España.
 
