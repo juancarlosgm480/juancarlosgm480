@@ -10,12 +10,12 @@ Me interesa seguir aprendiendo, crear proyectos propios y mejorar poco a poco co
 
 ## 🧑‍💻 Sobre mí
 
-* 🎓 Estudiante de Desarrollo de Aplicaciones Web
-* 💻 Interesado en desarrollo web y programación
-* 🌱 Actualmente aprendiendo **JavaScript**
-* 🗄️ Experiencia trabajando con bases de datos y SQL
-* 🔧 Uso Git y GitHub para gestionar mis proyectos
-* 🚀 Siempre intentando aprender algo nuevo
+*  Estudiante de Desarrollo de Aplicaciones Web
+*  Interesado en desarrollo web y programación
+*  Actualmente aprendiendo **JavaScript**
+*  Experiencia trabajando con bases de datos y SQL
+*  Uso Git y GitHub para gestionar mis proyectos
+*  Siempre intentando aprender algo nuevo
 
 ---
 
