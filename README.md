@@ -1,4 +1,5 @@
 # Hola, soy Juan Carlos.
+:: banner{theme="blue-theme" mode="mode-classic" font="serif-font-heading" align="align-left" box_type="container-full" cover="https://super-markdown.com/media/uploads/upload/cover3.jpg_7eee91b3.jpeg" sub_title="Sub title" title="Title of banner" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." button_link="https://super-markdown.com" button_text="Super Markdown"} :: banner
 < developer in progress />
 
 > 👽 Soy estudiante de Desarrollo de Aplicaciones Web (DAW) en España. Me apasiona crear software y desarrollar proyectos web desde cero.
