@@ -44,15 +44,6 @@ Me interesa seguir aprendiendo, crear proyectos propios y mejorar poco a poco co
 
 ---
 
-<hr>
- <pre> 
-   JavaScript   ████████████████░░░░ <br>  
-   Java         ████████████████░░░░ <br> 
-   HTML / CSS   █████████████████░░░ <br> 
-   PHP          █████████████░░░░░░░ <br> 
-   SQL          ██████████████░░░░░░ </pre>
-<hr>
-
 ## 📌 En qué estoy trabajando
 
 Actualmente estoy centrado en mejorar mis conocimientos de:
