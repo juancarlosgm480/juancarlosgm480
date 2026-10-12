@@ -1,6 +1,7 @@
 # Hola, soy Juan Carlos.
+< developer in progress />
 
-👽 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en España.
+> 👽 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en España.
 
 Actualmente estoy aprendiendo desarrollo web y programación, trabajando principalmente con **Java, JavaScript, PHP, HTML, CSS y SQL**.
 
