@@ -11,7 +11,7 @@ Me interesa seguir aprendiendo, crear proyectos propios y mejorar poco a poco co
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🫠 Sobre mí
 
 *  Estudiante de Desarrollo de Aplicaciones Web
 *  Interesado en desarrollo web y programación
@@ -75,16 +75,6 @@ Aquí iré subiendo mis prácticas y proyectos realizados durante mis estudios d
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juancarlosgm480&show_icons=true&theme=tokyonight&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosgm480&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
----
-
-## 📫 Contacto
-
-<p>
-  <a href="https://github.com/juancarlosgm480">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>
 
 ---
