@@ -1,3 +1,4 @@
+<img width="600" height="200" alt="s" src="https://github.com/user-attachments/assets/a33cc37d-4623-4684-b420-084d679228a4" />
 
 # Hola, soy Juan Carlos.
 < developer in progress />
