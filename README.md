@@ -6,7 +6,7 @@
 > 👽 Soy estudiante de Desarrollo de Aplicaciones Web (DAW) en España. Me apasiona crear software y desarrollar proyectos web desde cero.
 
 Trabajo con Java, JavaScript, PHP, HTML, CSS y SQL. Estoy siempre aprendiendo cosas nuevas y buscando mejorar mis habilidades cada día.
-Mi meta es poner en práctica lo que aprendo, hacer proyectos reales, aportar ideas originales y encontrar oportunidades para crecer como desarrollador.
+Mi meta es poner en práctica lo que aprendo, hacer proyectos reales, aportar ideas originales y encontrar oportunidades para crecer como desarrollador :)
 
 Actualmente estoy aprendiendo desarrollo web y programación, trabajando principalmente con **Java, JavaScript, PHP, HTML, CSS y SQL**.
 Me interesa seguir aprendiendo, crear proyectos propios y mejorar poco a poco como desarrollador.
