@@ -1,4 +1,5 @@
-<img width="600" height="200" alt="s" src="https://github.com/user-attachments/assets/a33cc37d-4623-4684-b420-084d679228a4" />
+<img width="793" height="179" alt="Captura de pantalla 2026-10-29 091753" src="https://github.com/user-attachments/assets/abc3cb07-8ba4-4df8-8e29-2073de339473" />
+
 
 # Hola, soy Juan Carlos.
 < developer in progress />
