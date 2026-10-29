@@ -1,5 +1,3 @@
-![Chiquito de la Calzada](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6w6qRj33D7EUM0tAvIWN3mFWif0854f6SbidkaqbUQ&s=10)
-
 
 # Hola, soy Juan Carlos.
 < developer in progress />
