@@ -1,7 +1,6 @@
-<img width="793" height="179" alt="Captura de pantalla 2026-10-29 091753" src="https://github.com/user-attachments/assets/abc3cb07-8ba4-4df8-8e29-2073de339473" />
+<img width="844" height="188" alt="Captura de pantalla 2026-10-29 093248" src="https://github.com/user-attachments/assets/9d9f155d-8849-472c-8113-6d5afac397af" />
 
 
-# Hola, soy Juan Carlos.
 < developer in progress />
 
 > 👽 Soy estudiante de Desarrollo de Aplicaciones Web (DAW) en España. Me apasiona crear software y desarrollar proyectos web desde cero.
