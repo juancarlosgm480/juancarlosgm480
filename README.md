@@ -75,8 +75,8 @@ Aquí iré subiendo mis prácticas y proyectos realizados durante mis estudios d
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juancarlosgm480&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosgm480&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juancarlosgm480&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juancarlosgm480&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
